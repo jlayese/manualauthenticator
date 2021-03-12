@@ -1,0 +1,6 @@
+{
+    "BOT_USER": "gabemav",
+    "TWITCH_REDIRECT_URI" : "http://localhost:8888",
+    "TWITCH_CLIENT_ID" : "r380z9bz7pc6drxsrdn8a3qipjb1tq",
+    "TWITCH_CLIENT_SECRET" : "z94rjwm3n5vcgsnor6z1ecnzr1xai7"
+}
